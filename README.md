@@ -1,5 +1,5 @@
 ## Overview
-This repository contains the code and data used for our submission to ISMIR 2024. 
+This repository contains the code and data used for in the paper entitled "Automatic Detection of Moral Values in Music Lyrics" accepted to the International Society for Music Information Retrieval Conference (ISMIR) 2024. 
 The work involves training BERT models for predicting moral values from song lyrics; generating synthetic lyrics and classifying real-life lyrics using LLMs. 
 To reuse the repo install the necessary libraries or run:
 ``` pip install -r requirements.txt ```
