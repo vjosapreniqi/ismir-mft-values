@@ -4,6 +4,9 @@ The work involves training BERT models for predicting moral values from song lyr
 To reuse the repo install the necessary libraries or run:
 ``` pip install -r requirements.txt ```
 
+## Automatic Moral Annotation in Lyrics
+If you want to apply moral automatic annotation in your lyrics without writing any code, click the [link here](https://huggingface.co/spaces/vjosap/MoralBERTApp) to access our web app.
+
 #### 1. BERT_Models
 This folder contains Python Jupyter Notebook files for training BERT models and predicting moral values in song lyrics. 
 The models are fine-tuned on annotated datasets and are designed to understand and predict the representation of moral values based on the Moral Foundations Theory (MFT).
